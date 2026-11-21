@@ -2,7 +2,7 @@
 
 <img src="https://mapier.ai/icon-512.png" alt="Mapier" width="96" height="96">
 
-# Mapier
+# Mapier Labs
 
 [![Website](https://img.shields.io/badge/mapier.ai-000000?style=flat-square&logo=safari&logoColor=white)](https://mapier.ai)
 [![Docs](https://img.shields.io/badge/Docs-000000?style=flat-square&logo=readthedocs&logoColor=white)](https://docs.mapier.ai)
